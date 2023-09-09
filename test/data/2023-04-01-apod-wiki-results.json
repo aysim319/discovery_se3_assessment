@@ -1,0 +1,64 @@
+{
+    "batchcomplete": "",
+    "query": {
+        "searchinfo": {
+            "totalhits": 6
+        },
+        "search": [
+            {
+                "ns": 0,
+                "title": "NGC 2442 and NGC 2443",
+                "pageid": 3727758,
+                "size": 5832,
+                "wordcount": 504,
+                "snippet": "related to <span class=\"searchmatch\">NGC</span> <span class=\"searchmatch\">2442</span>. <span class=\"searchmatch\">NGC</span> <span class=\"searchmatch\">2442</span> <span class=\"searchmatch\">in</span> <span class=\"searchmatch\">Volans</span> Astronomy Picture of the Day <span class=\"searchmatch\">NGC</span> <span class=\"searchmatch\">2442</span>: <span class=\"searchmatch\">Galaxy</span> <span class=\"searchmatch\">in</span> <span class=\"searchmatch\">Volans</span> 2007 March 15 <span class=\"searchmatch\">NGC</span> <span class=\"searchmatch\">2442</span>: <span class=\"searchmatch\">Galaxy</span> <span class=\"searchmatch\">in</span> <span class=\"searchmatch\">Volans</span> 2010 March 25",
+                "timestamp": "2023-05-14T11:49:35Z"
+            },
+            {
+                "ns": 0,
+                "title": "Volans",
+                "pageid": 211818,
+                "size": 7440,
+                "wordcount": 700,
+                "snippet": "<span class=\"searchmatch\">Volans</span> is a constellation <span class=\"searchmatch\">in</span> the southern sky. It represents a flying fish; its name is a shortened form of its original name, Piscis <span class=\"searchmatch\">Volans</span>. <span class=\"searchmatch\">Volans</span> was",
+                "timestamp": "2023-09-01T22:18:11Z"
+            },
+            {
+                "ns": 0,
+                "title": "List of galaxies",
+                "pageid": 428086,
+                "size": 116764,
+                "wordcount": 6206,
+                "snippet": "project (HUDF, SDSS, 3C, CFHQS, <span class=\"searchmatch\">NGC</span>/IC, etc.) This is a list of <span class=\"searchmatch\">galaxies</span> that are well known by something other than an entry <span class=\"searchmatch\">in</span> a catalog or list, or a set",
+                "timestamp": "2023-08-21T16:08:56Z"
+            },
+            {
+                "ns": 0,
+                "title": "NGC 2397",
+                "pageid": 33850228,
+                "size": 8820,
+                "wordcount": 661,
+                "snippet": "<span class=\"searchmatch\">NGC</span> 2397 is a flocculent spiral <span class=\"searchmatch\">galaxy</span> located <span class=\"searchmatch\">in</span> the southern <span class=\"searchmatch\">Volans</span> constellation, about one degree to the SSE of Delta Volantis. English astronomer",
+                "timestamp": "2023-08-12T22:57:06Z"
+            },
+            {
+                "ns": 0,
+                "title": "List of spiral galaxies",
+                "pageid": 8633658,
+                "size": 17815,
+                "wordcount": 156,
+                "snippet": "Spiral <span class=\"searchmatch\">galaxy</span> Normandin, George (2002). &quot;Barred Spiral <span class=\"searchmatch\">Galaxy</span> <span class=\"searchmatch\">NGC</span> 1090&quot;. Retrieved Dec. 26, 2006 Matthews, Doug &amp; Betts, Charles (2003). &quot;<span class=\"searchmatch\">NGC</span> 2541&quot;. Retrieved",
+                "timestamp": "2022-04-26T23:50:22Z"
+            },
+            {
+                "ns": 0,
+                "title": "List of NGC objects (2001–3000)",
+                "pageid": 11097664,
+                "size": 47054,
+                "wordcount": 183,
+                "snippet": "of <span class=\"searchmatch\">NGC</span> objects 2001–3000 from the New General Catalogue (<span class=\"searchmatch\">NGC</span>). The astronomical catalogue is composed mainly of star clusters, nebulae, and <span class=\"searchmatch\">galaxies</span>. Other",
+                "timestamp": "2023-02-18T04:22:52Z"
+            }
+        ]
+    }
+}
